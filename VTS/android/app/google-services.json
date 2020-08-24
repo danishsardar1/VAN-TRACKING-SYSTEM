@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "515566804673",
+    "firebase_url": "https://vts1-a94cc.firebaseio.com",
+    "project_id": "vts1-a94cc",
+    "storage_bucket": "vts1-a94cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515566804673:android:22232e140ee50b3dd17e40",
+        "android_client_info": {
+          "package_name": "com.vts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515566804673-k6i56dec215pofl4ochmb1pu2bbn58uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjxjgs2reQfN8VdaRz-dZM_rOSQ8D6mjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515566804673-k6i56dec215pofl4ochmb1pu2bbn58uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
